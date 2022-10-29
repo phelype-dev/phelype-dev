@@ -1,6 +1,6 @@
 ## Olá! 👋
 Eu sou Phelype Rodrigo dos Santos.<br>
-Sou recém formado em Sistemas de Informação e estou em busca da minha primeira vaga como dev junior.
+Sou recém formado em Sistemas de Informação e estou em busca da minha primeira vaga como dev junior.<br>
 Meu foco maior está sendo em backend.
 
 <div>
