@@ -1,7 +1,7 @@
 ## Olá! 👋
-Eu sou Phelype Rodrigo dos Santos.
+Eu sou Phelype Rodrigo dos Santos.<br>
 Sou recém formado em Sistemas de Informação e estou em busca da minha primeira vaga como dev junior.
-Meu foco maior está sendo em backend com as seguintes tecnologias: NodeJS, TypeScript, JavaScript, PostgresSql e Docker.
+Meu foco maior está sendo em backend.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phelype-dev&show_icons=true&theme=tokyonight"/>
